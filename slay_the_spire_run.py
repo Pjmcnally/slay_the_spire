@@ -49,7 +49,7 @@ class Floor(object):
 
 
 def main():
-    file = r"C:\Users\Patrick\Programming\slay_the_spire\1548745351.run.json"
+    file = r""
     with open(file, "r") as f:
         content = json.load(f)
 
